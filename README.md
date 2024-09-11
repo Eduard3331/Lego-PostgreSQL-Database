@@ -1,6 +1,6 @@
 # Lego-PostgreSQL-Database
 
-This is a demonstration of data being imported in SQL and accessed through DBeaver, Python and Tableau.
+This is a demonstration of data being imported in PostgreSQL and accessed through DBeaver, Python and Tableau.
 
 ## 🔡Importing Data
 The Lego data imported can be found here: https://www.kaggle.com/datasets/rtatman/lego-database
